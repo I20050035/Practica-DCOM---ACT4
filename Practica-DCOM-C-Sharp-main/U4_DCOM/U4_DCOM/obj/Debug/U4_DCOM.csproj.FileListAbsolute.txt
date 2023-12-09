@@ -1,0 +1,15 @@
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.AssemblyReference.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.CoreCompileInputs.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe.config
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.pdb
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.pdb
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe.config
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.pdb
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.AssemblyReference.cache
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.SuggestedBindingRedirects.cache
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.CoreCompileInputs.cache
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.exe
+E:\Proyecto a Entregar Riojas\act4\Practica-DCOM-C-Sharp-main\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.pdb
